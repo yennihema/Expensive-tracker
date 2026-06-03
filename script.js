@@ -1,4 +1,4 @@
-alert"(JavaScript Loaded")
+alert("JavaScript Loaded")
 let total = 0;
 
 function addExpense(){
